@@ -7,4 +7,6 @@ Roll Numbers:
 12345
 
 Branch:
-Computer Engineering
+AI & DS
+
+Practical DevOps Exp 1
